@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductCard Debe de mostrar el componente correctamente 1`] = `
+<div
+  className="productCard custom-class"
+>
+  <h1>
+    Hello
+  </h1>
+</div>
+`;
+
+exports[`ProductCard debe de incrementar el contador  1`] = `
+<div
+  className="productCard custom-class"
+>
+  <h1>
+    ProductCard
+  </h1>
+  <span>
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  />
+</div>
+`;
+
+exports[`ProductCard debe de incrementar el contador  2`] = `
+Array [
+  "1",
+]
+`;
