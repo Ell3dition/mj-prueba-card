@@ -25,9 +25,3 @@ exports[`ProductCard debe de incrementar el contador  1`] = `
   />
 </div>
 `;
-
-exports[`ProductCard debe de incrementar el contador  2`] = `
-Array [
-  "1",
-]
-`;
